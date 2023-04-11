@@ -1,0 +1,16 @@
+<mj-section mj-class="footer__section">
+    <mj-column mj-class="footer__column">
+        <mj-button mj-class="footer__email"
+                   href="mailto:house@villagio.ru">
+            house@villagio.ru
+        </mj-button>
+        <mj-button mj-class="footer__phone"
+                   href="tel:+74957823303">
+            +7&nbsp;(495)&nbsp;782&#8209;33&#8209;03
+        </mj-button>
+        <mj-text mj-class="footer__text" css-class="footer__text">
+            Не&nbsp;является публичной офертой. Вы&nbsp;получили это письмо, так как ранее сотрудничали с&nbsp;компанией <strong>Villagio</strong>. Если вы&nbsp;не&nbsp;заинтересованы в&nbsp;получении информации о&nbsp;новостях и&nbsp;акциях для наших постоянных клиентов, вы&nbsp;можете отписаться от&nbsp;рассылки, кликнув по&nbsp;ссылке ниже.<br/>
+            <a href="{{UnsubscribeUrl}}">Отписаться от&nbsp;рассылки</a>
+        </mj-text>
+    </mj-column>
+</mj-section>

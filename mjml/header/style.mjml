@@ -1,0 +1,138 @@
+<mj-breakpoint width="595px" />
+<mj-attributes>
+    <mj-all
+            font-family="Verdana, Arial, sans-serif"
+            color="#000"
+    />
+    <mj-class name="view__section"
+              background-color="#fff"
+              padding="15px"
+              full-width="full-width"
+    />
+    <mj-class name="view__column"
+              padding="0"
+    />
+    <mj-class name="view__text"
+              color="#949494"
+              font-size="12px"
+              line-height="15px"
+              padding="0"
+              align="center"
+    />
+
+    <mj-class name="header__section"
+              padding="0 15px 20px"
+              full-width="full-width"
+              background-color="#C3122F"
+    />
+    <mj-class name="header__column"
+              padding="0"
+    />
+    <mj-class name="header__logo"
+              padding="0"
+              width="246px"
+    />
+    <mj-class name="header__phone"
+              font-size="14px"
+              line-height="22px"
+              padding="0"
+              align="center"
+              color="#fff"
+    />
+
+
+    <mj-class name="content__section"
+              padding="30px 0"
+    />
+    <mj-class name="content__column"
+              padding="0 15px"
+              width="630px"
+    />
+    <mj-class name="content__banner"
+              padding="0px"
+              width="600px"
+    />
+    <mj-class name="content__text"
+              padding="0"
+              font-size="15px"
+              line-height="22px"
+              color="#535353"
+              align="center"
+    />
+
+    <mj-class name="button__section"
+              padding="0"
+    />
+    <mj-class name="button__column"
+              padding="0"
+    />
+    <mj-class name="button"
+              font-size="14px"
+              line-height="22px"
+              background-color="#C3122F"
+              inner-padding="10px 15px"
+              color="#fff"
+              width="100%"
+              padding="0"
+              border-radius="0"
+    />
+    <mj-class name="footer__section"
+              padding="50px 20px"
+              full-width="full-width"
+              background-color="#000"
+    />
+    <mj-class name="footer__column"
+              padding="0"
+    />
+    <mj-class name="footer__email"
+              font-size="14px"
+              line-height="20px"
+              background-color="transparent"
+              inner-padding="0"
+              color="#fff"
+              width="100%"
+              padding="0 0 20px"
+              border-radius="0"
+              text-decoration="underline"
+    />
+    <mj-class name="footer__phone"
+              font-size="14px"
+              line-height="20px"
+              background-color="transparent"
+              inner-padding="0"
+              color="#fff"
+              width="100%"
+              padding="0 0 30px"
+              border-radius="0"
+    />
+    <mj-class name="footer__text"
+              font-size="11px"
+              line-height="18px"
+              color="#C8C8C8"
+              padding="0"
+              align="center"
+    />
+</mj-attributes>
+<mj-style inline="inline">
+    .dib {
+        display: inline-block!important;
+        width: 100% !important;
+    }
+    .view__text a{
+        color: #949494;
+        text-decoration: underline;
+    }
+    .header__phone a {
+        color: #fff;
+        text-decoration: none;
+    }
+    .content__section {
+        max-width: 630px!important;
+    }
+    .content__column {
+        max-width: 630px!important;
+    }
+    .footer__text a {
+        color: #C8C8C8;
+    }
+</mj-style>

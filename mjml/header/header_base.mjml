@@ -1,0 +1,22 @@
+<mj-section mj-class="view__section">
+    <mj-column mj-class="view__column">
+        <mj-text mj-class="view__text" css-class="view__text">
+            Письмо отображается некорректно?
+            <a href="[[view]]" target="_blank">Откройте его в браузере</a>
+        </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section mj-class="header__section">
+    <mj-column mj-class="header__column">
+        <mj-image mj-class="header__logo"
+                  src="https://caezar47.github.io/villagio/img/theme/logo.jpg"
+                  href="https://vision-villagio.ru/"
+        />
+        <mj-text mj-class="header__phone" css-class="header__phone">
+            <a href="tel:+74957823303">
+                +7&nbsp;495&nbsp;782&#8209;33&#8209;03
+            </a><br>
+            (Москва и&nbsp;Московская область)
+        </mj-text>
+    </mj-column>
+</mj-section>
