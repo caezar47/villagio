@@ -2,7 +2,7 @@
     <mj-column mj-class="view__column">
         <mj-text mj-class="view__text" css-class="view__text">
             Письмо отображается некорректно?
-            <a href="[[view]]" target="_blank">Откройте его в браузере</a>
+            <a href="[[view]]" target="_blank">Откройте&nbsp;его&nbsp;в&nbsp;браузере</a>
         </mj-text>
     </mj-column>
 </mj-section>
