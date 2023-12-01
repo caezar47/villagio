@@ -1,0 +1,201 @@
+<mjml>
+    <mj-head>
+        <mj-preview>&zwnj;лучшее предложение &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>Новый коттеджный поселок на Новой</mj-title>
+        <mj-include path="header/style.mjml" />
+        <mj-attributes>
+            <mj-class name="content__section"
+                      padding="0 0 30px"
+            />
+            <mj-class name="content__text"
+                      padding="30px 0 20px"
+            />
+            <mj-class name="button__column-item1"
+                      width="170px"
+                      padding="0 0 30px"
+            />
+            <mj-class name="button__column-item2"
+                      width="265px"
+                      padding="10px 0 30px"
+            />
+            <mj-class name="content__banner-item2"
+                      padding="0 0 10px"
+            />
+            <mj-class name="content__banner-item3"
+                      padding="30px 0 0"
+            />
+            <mj-class name="banner__section"
+                      padding="5px 0 0"
+            />
+            <mj-class name="banner__column-image"
+                      padding="10px 0"
+                      width="290px"
+            />
+            <mj-class name="banner__column-text"
+                      padding="10px 20px"
+                      width="310px"
+            />
+            <mj-class name="banner__image"
+                      padding="0"
+                      width="290px"
+            />
+            <mj-class name="banner__title"
+                      padding="0 0 15px"
+                      font-size="30px"
+                      line-height="40px"
+            />
+            <mj-class name="banner__text"
+                      padding="0"
+                      font-size="12px"
+                      line-height="22px"
+                      color="#535353"
+            />
+            <mj-class name="features__section"
+                      padding="0"
+            />
+            <mj-class name="features__column"
+                      padding="20px"
+                      width="200px"
+            />
+            <mj-class name="features__image"
+                      padding="0 0 10px"
+                      width="60px"
+            />
+            <mj-class name="features__text"
+                      padding="0"
+                      font-size="14px"
+                      line-height="17px"
+                      align="center"
+                      font-weight="700"
+            />
+        </mj-attributes>
+
+        <mj-style inline="inline">
+            .button__column-item1 {
+                max-width: 170px!important;
+            }
+            .button__column-item2 {
+                max-width: 265px!important;
+            }
+            .banner__column-image {
+                max-width: 290px!important;
+            }
+            .banner__column-text{
+                max-width: 310px!important;
+            }
+            .features__column{
+                max-width: 200px!important;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header_base.mjml" />
+        <!-- end's Header -->
+
+        <!-- Content -->
+        <mj-section mj-class="content__section" css-class="content__section">
+            <mj-column mj-class="content__column" css-class="dib  content__column">
+                <mj-image mj-class="content__banner"
+                          src="https://caezar47.github.io/villagio/img/003/main_banner_item1.jpg"
+                />
+                <mj-text mj-class="content__text">
+                    Поселок VISION&nbsp;— это не&nbsp;очередной поселок на&nbsp;Новой риге. Это новый флагманский продукт Виладжио Эстейт, который объединит в&nbsp;себе комфортную среду и&nbsp;природную ценность места.
+                </mj-text>
+
+                <mj-section mj-class="button__section">
+                    <mj-column mj-class="button__column button__column-item1" css-class="dib  button__column  button__column-item1">
+                        <mj-button mj-class="button"
+                                   href="https://vision-villagio.ru/emailform">
+                            Узнать подробнее
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+
+                <mj-image mj-class="content__banner content__banner-item2"
+                          src="https://caezar47.github.io/villagio/img/001/main_banner_item2.jpg"
+                />
+
+                <mj-section mj-class="banner__section">
+                    <mj-column mj-class="banner__column-image" css-class="dib  banner__column-image">
+                        <mj-image mj-class="banner__image"
+                                  src="https://caezar47.github.io/villagio/img/001/banner_item1.png"
+                        />
+                    </mj-column>
+                    <mj-column mj-class="banner__column-text" css-class="dib  banner__column-text">
+                        <mj-text mj-class="banner__title">
+                            Коттеджный поселок VISION
+                        </mj-text>
+                        <mj-text mj-class="banner__text">
+                            В&nbsp;VISION каждый сможет построить дом своей мечты в&nbsp;особой ландшафтной зоне: рядом с&nbsp;лесом, на&nbsp;берегу реки или с&nbsp;видом на&nbsp;парк, выбрав один из&nbsp;разработанных ведущими архитекторами проектов
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section mj-class="banner__section" direction="rtl">
+                    <mj-column mj-class="banner__column-image" css-class="dib  banner__column-image">
+                        <mj-image mj-class="banner__image"
+                                  src="https://caezar47.github.io/villagio/img/001/banner_item2.png"
+                        />
+                    </mj-column>
+                    <mj-column mj-class="banner__column-text" css-class="dib  banner__column-text">
+                        <mj-text mj-class="banner__title">
+                            Инфраструктура
+                            поселка
+                        </mj-text>
+                        <mj-text mj-class="banner__text">
+                            Общественное пространство клабхаус, павильон в&nbsp;центральном парке, детский плейхаб и&nbsp;спортивные площадки с&nbsp;мягким покрытием&nbsp;— в&nbsp;VISION мы&nbsp;постарались организовать интересный досуг для каждого.
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section mj-class="button__section">
+                    <mj-column mj-class="button__column button__column-item2" css-class="dib  button__column  button__column-item2">
+                        <mj-button mj-class="button"
+                                   href="https://vision-villagio.ru/emailform">
+                            Скачать презентацию поселка
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section mj-class="features__section">
+                    <mj-column mj-class="features__column" css-class="dib  features__column">
+                        <mj-image mj-class="features__image"
+                                  src="https://caezar47.github.io/villagio/img/001/features_item1.jpg"
+                        />
+                        <mj-text mj-class="features__text">
+                            30&nbsp;минут <br>от&nbsp;МКАД
+                        </mj-text>
+                    </mj-column>
+                    <mj-column mj-class="features__column" css-class="dib  features__column">
+                        <mj-image mj-class="features__image"
+                                  src="https://caezar47.github.io/villagio/img/001/features_item2.jpg"
+                        />
+                        <mj-text mj-class="features__text">
+                            356 коттеджей
+                            премиум-класса
+                        </mj-text>
+                    </mj-column>
+                    <mj-column mj-class="features__column" css-class="dib  features__column">
+                        <mj-image mj-class="features__image"
+                                  src="https://caezar47.github.io/villagio/img/001/features_item3.jpg"
+                        />
+                        <mj-text mj-class="features__text">
+                            76,8&nbsp;га общая площадь поселка
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+
+                <mj-image mj-class="content__banner content__banner-item3"
+                          src="https://caezar47.github.io/villagio/img/001/main_banner_item3.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- end's Content -->
+
+        <!-- Header -->
+        <mj-include path="footer/footer_base.mjml" />
+        <!-- end's Header -->
+    </mj-body>
+</mjml>
