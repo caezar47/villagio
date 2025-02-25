@@ -325,8 +325,8 @@
             <mj-section mj-class="banner__section" css-class="banner__section">
                 <mj-column mj-class="banner__column" css-class="banner__column">
                     <mj-image mj-class="banner__image"
-                              href="https://ametist-hotel.ru/#/catalog/house/111759/floorPlan?floorNumber=16&facadeId=49584&filter=property.status:AVAILABLEg"
                               src="https://caezar47.github.io/villagio/img/004/main_banner_item1_1.jpg"
+                              href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                     />
                 </mj-column>
             </mj-section>
@@ -349,9 +349,8 @@
                                 <mj-image mj-class="block1__desc-image"
                                           src="https://caezar47.github.io/villagio/img/004/block1_image_001_full.gif"
                                 />
-
                                 <mj-text mj-class="block1__desc-text">
-                                    Только до&nbsp;28&nbsp;февраля <strong>приобретите студию по&nbsp;скидке&nbsp;8%</strong> по&nbsp;специальной цене: 231&nbsp;тыс./м2 вместо 251&nbsp;тыс./м2
+                                    Акция в феврале: <strong>приобретите студию по&nbsp;скидке&nbsp;8%</strong> по&nbsp;специальной цене: 231&nbsp;тыс./м2 вместо 251&nbsp;тыс./м2
                                 </mj-text>
                             </mj-column>
                         </mj-section>
@@ -365,7 +364,7 @@
                 <mj-column mj-class="banner2__column" css-class="banner2__column">
                     <mj-image mj-class="banner2__image"
                               src="https://caezar47.github.io/villagio/img/004/main_banner_item2.png"
-                              href="https://ametist-hotel.ru/#/catalog/house/111759/floorPlan?floorNumber=13&facadeId=49584&filter=property.status:AVAILABLE"
+                              href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                     />
                 </mj-column>
             </mj-section>
@@ -434,6 +433,7 @@
                                     <mj-column mj-class="block3__card-column-left" css-class="block3__card-column-left">
                                         <mj-image mj-class="block3__card-image"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_001.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                     <mj-column mj-class="block3__card-column-center" css-class="block3__card-column-center">
@@ -447,6 +447,7 @@
                                     <mj-column mj-class="block3__card-column-right" css-class="block3__card-column-right">
                                         <mj-image mj-class="block3__card-icon"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_002.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                 </mj-group>
@@ -459,6 +460,7 @@
                                     <mj-column mj-class="block3__card-column-left" css-class="block3__card-column-left">
                                         <mj-image mj-class="block3__card-image"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_001.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                     <mj-column mj-class="block3__card-column-center" css-class="block3__card-column-center">
@@ -473,6 +475,7 @@
                                     <mj-column mj-class="block3__card-column-right" css-class="block3__card-column-right">
                                         <mj-image mj-class="block3__card-icon"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_002.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                 </mj-group>
@@ -485,6 +488,7 @@
                                     <mj-column mj-class="block3__card-column-left" css-class="block3__card-column-left">
                                         <mj-image mj-class="block3__card-image"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_001.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                     <mj-column mj-class="block3__card-column-center" css-class="block3__card-column-center">
@@ -498,12 +502,12 @@
                                     <mj-column mj-class="block3__card-column-right" css-class="block3__card-column-right">
                                         <mj-image mj-class="block3__card-icon"
                                                   src="https://caezar47.github.io/villagio/img/004/block3_image_002.png"
+                                                  href="https://wa.me/79098770321?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D1%85%D0%BE%D1%87%D1%83%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%20%22%D0%93%D0%9A%20%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%22"
                                         />
                                     </mj-column>
                                 </mj-group>
                             </mj-section>
                         </mj-wrapper>
-
                     </mj-column>
                 </mj-section>
             </mj-wrapper>
