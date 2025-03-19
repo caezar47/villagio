@@ -1,0 +1,436 @@
+<mjml>
+    <mj-head>
+        <mj-preview> &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title></mj-title>
+        <mj-breakpoint width="595px" />
+        <mj-attributes>
+            <mj-all
+                    font-family="Arial, sans-serif"
+                    color="#000"
+            />
+            <!-- *** -->
+            <mj-class name="header__wrapper"
+                      padding="0"
+            />
+            <mj-class name="header__section"
+                      padding="0"
+                      border-bottom="1px solid #0000001A"
+            />
+            <mj-class name="header__column"
+                      padding="10px 0"
+            />
+            <mj-class name="header__image"
+                      width="235px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="banner__wrapper"
+                      padding="0"
+            />
+            <mj-class name="banner__section"
+                      padding="0"
+            />
+            <mj-class name="banner__column"
+                      padding="0"
+            />
+            <mj-class name="banner__image"
+                      width="600px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block1__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block1__section"
+                      padding="0"
+            />
+            <mj-class name="block1__column"
+                      padding="24px 16px"
+            />
+            <mj-class name="block1__image"
+                      width="568px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block2__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block2__section"
+                      padding="0"
+            />
+            <mj-class name="block2__column"
+                      padding="30px 28px 56px"
+            />
+            <mj-class name="block2__title"
+                      padding="0 0 10px"
+                      font-size="20px"
+                      line-height="24px"
+            />
+            <mj-class name="block2__text"
+                      padding="0"
+                      font-size="16px"
+                      line-height="19px"
+            />
+            <mj-class name="block2__image"
+                      width="66px"
+                      padding="0"
+            />
+            <mj-class name="block2__inner-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block2__inner-section"
+                      padding="0"
+            />
+            <mj-class name="block2__inner-column-left"
+                      padding="0"
+                      width="11%"
+                      vertical-align="middle"
+            />
+            <mj-class name="block2__inner-column-right"
+                      padding="0 0 0 11px"
+                      width="89%"
+                      vertical-align="middle"
+            />
+            <!-- *** -->
+            <mj-class name="block3__wrapper"
+                      padding="0 16px 50px"
+            />
+            <mj-class name="block3__section"
+                      padding="0"
+                      border-radius="15px"
+            />
+            <mj-class name="block3__column"
+                      padding="15px 10px 25px"
+            />
+            <mj-class name="block3__title"
+                      padding="0 5px 20px"
+                      font-size="20px"
+                      line-height="24px"
+                      color="#fff"
+                      font-weight="700"
+            />
+            <mj-class name="block3__inner-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block3__inner-section"
+                      padding="0"
+            />
+            <mj-class name="block3__inner-column"
+                      padding="0 5px"
+                      width="50%"
+            />
+            <mj-class name="block3__image"
+                      width="264px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block4__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block4__section"
+                      padding="5px 10px"
+            />
+            <mj-class name="block4__column-group"
+                      padding="0 5px"
+                      width="50%"
+            />
+            <mj-class name="block4__column"
+                      padding="13px 0 0"
+            />
+            <mj-class name="block4__image"
+                      width="280px"
+                      padding="0"
+            />
+            <mj-class name="block4__image-btn"
+                      width="244px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block5__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block5__section"
+                      padding="40px 0 34px"
+            />
+            <mj-class name="block5__column"
+                      padding="0"
+            />
+            <mj-class name="block5__image"
+                      width="600px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block6__wrapper"
+                      padding="0 16px 32px"
+            />
+            <mj-class name="block6__section"
+                      padding="25px 16px"
+                      border-radius="15px"
+            />
+            <mj-class name="block6__column-group-left"
+                      padding="0 5px 0 0"
+                      width="77.5%"
+            />
+            <mj-class name="block6__column-group-right"
+                      padding="0"
+                      width="22.5%"
+            />
+            <mj-class name="block6__image"
+                      width="120px"
+                      padding="0"
+            />
+            <mj-class name="block6__inner-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block6__inner-section"
+                      padding="3px 0"
+            />
+            <mj-class name="block6__inner-column-left"
+                      padding="0"
+                      width="3%"
+                      vertical-align="middle"
+            />
+            <mj-class name="block6__inner-column-right"
+                      padding="0 0 0 5px"
+                      width="97%"
+                      vertical-align="middle"
+            />
+            <mj-class name="block6__icon"
+                      padding="0"
+                      width="12px"
+            />
+            <mj-class name="block6__title"
+                      padding="0 0 13px"
+                      font-size="20px"
+                      line-height="24px"
+                      color="#fff"
+                      font-weight="700"
+            />
+            <mj-class name="block6__button"
+                      padding="0"
+                      inner-padding="0"
+                      font-size="12px"
+                      line-height="14px"
+                      color="#fff"
+                      background-color="transparent"
+                      align="left"
+                      text-align="left"
+            />
+        </mj-attributes>
+        <mj-style inline="inline">
+            .block3__section {
+                background: linear-gradient(263.16deg, #404040 0%, #000000 99.29%);
+            }
+            .block6__section {
+                background: linear-gradient(263.16deg, #404040 0%, #000000 99.29%);
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- *** -->
+        <mj-wrapper mj-class="header__wrapper" css-class="header__wrapper">
+            <mj-section mj-class="header__section" css-class="header__section">
+                <mj-column mj-class="header__column" css-class="header__column">
+                    <mj-image mj-class="header__image"
+                              src="https://caezar47.github.io/villagio/img/005/logo.png"
+                              href="#"
+                    />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block1__wrapper" css-class="block1__wrapper">
+            <mj-section mj-class="block1__section" css-class="block1__section">
+                <mj-column mj-class="block1__column" css-class="block1__column">
+                    <mj-image mj-class="block1__image"
+                              src="https://caezar47.github.io/villagio/img/005/block1_001.png"
+                              href="#"
+                    />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block2__wrapper" css-class="block2__wrapper">
+            <mj-section mj-class="block2__section" css-class="block2__section">
+                <mj-column mj-class="block2__column" css-class="block2__column">
+                    <mj-text mj-class="block2__title">
+                        <strong>Мы — команда профессионалов,</strong> специализирующаяся на&nbsp;продаже элитной недвижимости в&nbsp;Москве
+                    </mj-text>
+
+                    <mj-wrapper mj-class="block2__inner-wrapper" css-class="block2__inner-wrapper">
+                        <mj-section mj-class="block2__inner-section" css-class="block2__inner-section">
+                            <mj-group>
+                                <mj-column mj-class="block2__inner-column-left" css-class="block2__inner-column-left">
+                                    <mj-image mj-class="block2__image"
+                                              src="https://caezar47.github.io/villagio/img/005/block2_001.png"
+                                    />
+                                </mj-column>
+                                <mj-column mj-class="block2__inner-column-right" css-class="block2__inner-column-right">
+                                    <mj-text mj-class="block2__text">
+                                        Наша цель — сделать процесс покупки или аренды максимально комфортным и эффективным.
+                                    </mj-text>
+                                </mj-column>
+                            </mj-group>
+                        </mj-section>
+                    </mj-wrapper>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block3__wrapper" css-class="block3__wrapper">
+            <mj-section mj-class="block3__section" css-class="block3__section">
+                <mj-column mj-class="block3__column" css-class="block3__column">
+                    <mj-text mj-class="block3__title">
+                        В качестве приветственного подарка мы рады предложить вам уникальную информацию о&nbsp;лучших&nbsp;объектах на&nbsp;рынке:
+                    </mj-text>
+
+                    <mj-wrapper mj-class="block3__inner-wrapper" css-class="block3__inner-wrapper">
+                        <mj-section mj-class="block3__inner-section" css-class="block3__inner-section">
+                            <mj-group>
+                                <mj-column mj-class="block3__inner-column" css-class="block3__inner-column">
+                                    <mj-image mj-class="block3__image"
+                                              src="https://caezar47.github.io/villagio/img/005/block3_001.png"
+                                              href=""
+                                    />
+                                </mj-column>
+                                <mj-column mj-class="block3__inner-column" css-class="block3__inner-column">
+                                    <mj-image mj-class="block3__image"
+                                              src="https://caezar47.github.io/villagio/img/005/block3_002.png"
+                                              href=""
+                                    />
+                                </mj-column>
+                            </mj-group>
+                        </mj-section>
+                    </mj-wrapper>
+
+
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block4__wrapper" css-class="block4__wrapper">
+            <mj-section mj-class="block4__section" css-class="block4__section">
+                <mj-group>
+                    <mj-column mj-class="block4__column-group" css-class="block4__column-group">
+                        <mj-image mj-class="block4__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block4_001.png"
+                                  href=""
+                        />
+                    </mj-column>
+                    <mj-column mj-class="block4__column-group" css-class="block4__column-group">
+                        <mj-image mj-class="block4__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block4_002.png"
+                                  href=""
+                        />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section mj-class="block4__section" css-class="block4__section">
+                <mj-group>
+                    <mj-column mj-class="block4__column-group" css-class="block4__column-group">
+                        <mj-image mj-class="block4__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block4_003.png"
+                                  href="#"
+                        />
+                    </mj-column>
+                    <mj-column mj-class="block4__column-group" css-class="block4__column-group">
+                        <mj-image mj-class="block4__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block4_004.png"
+                                  href="#"
+                        />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section mj-class="block4__section" css-class="block4__section">
+                <mj-group>
+                    <mj-column mj-class="block4__column" css-class="block4__column">
+                        <mj-image mj-class="block4__image-btn"
+                                  src="https://caezar47.github.io/villagio/img/005/block4_005.png"
+                                  href="#"
+                        />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block5__wrapper" css-class="block5__wrapper">
+            <mj-section mj-class="block5__section" css-class="block5__section">
+                <mj-group>
+                    <mj-column mj-class="block5__column" css-class="block5__column">
+                        <mj-image mj-class="block5__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block5_001.png"
+                                  href="#"
+                        />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block6__wrapper" css-class="block6__wrapper">
+            <mj-section mj-class="block6__section" css-class="block6__section">
+                <mj-group>
+                    <mj-column mj-class="block6__column-group-left" css-class="block6__column-group-left">
+                        <mj-text mj-class="block6__title">
+                            С наилучшими пожеланиями,<br> агентство недвижимости DomGo
+                        </mj-text>
+                        <mj-wrapper mj-class="block6__inner-wrapper" css-class="block6__inner-wrapper">
+                            <mj-section mj-class="block6__inner-section" css-class="block6__inner-section">
+                                <mj-group>
+                                    <mj-column mj-class="block6__inner-column-left" css-class="block6__inner-column-left">
+                                        <mj-image mj-class="block6__icon"
+                                                  src="https://caezar47.github.io/villagio/img/005/block6_002.png"
+                                                  href=""
+                                        />
+                                    </mj-column>
+                                    <mj-column mj-class="block6__inner-column-right" css-class="block6__inner-column-right">
+                                        <mj-button mj-class="block6__button">
+                                            Ул. Минская 2Ж (БЦ Victory Park Plaza), 124 офис
+                                        </mj-button>
+                                    </mj-column>
+                                </mj-group>
+                            </mj-section>
+
+                            <mj-section mj-class="block6__inner-section" css-class="block6__inner-section">
+                                <mj-group>
+                                    <mj-column mj-class="block6__inner-column-left" css-class="block6__inner-column-left">
+                                        <mj-image mj-class="block6__icon"
+                                                  src="https://caezar47.github.io/villagio/img/005/block6_003.png"
+                                                  href="tel:+74955324030"
+                                        />
+                                    </mj-column>
+                                    <mj-column mj-class="block6__inner-column-right" css-class="block6__inner-column-right">
+                                        <mj-button mj-class="block6__button" href="tel:+74955324030">
+                                            +7 495 532 4030
+                                        </mj-button>
+                                    </mj-column>
+                                </mj-group>
+                            </mj-section>
+
+                            <mj-section mj-class="block6__inner-section" css-class="block6__inner-section">
+                                <mj-group>
+                                    <mj-column mj-class="block6__inner-column-left" css-class="block6__inner-column-left">
+                                        <mj-image mj-class="block6__icon"
+                                                  src="https://caezar47.github.io/villagio/img/005/block6_004.png"
+                                                  href="mailto:sales@domgo.ru"
+                                        />
+                                    </mj-column>
+                                    <mj-column mj-class="block6__inner-column-right" css-class="block6__inner-column-right">
+                                        <mj-button mj-class="block6__button" href="mailto:sales@domgo.ru">
+                                            sales@domgo.ru
+                                        </mj-button>
+                                    </mj-column>
+                                </mj-group>
+                            </mj-section>
+                        </mj-wrapper>
+                    </mj-column>
+                    <mj-column mj-class="block6__column-group-right" css-class="block6__column-group-right">
+                        <mj-image mj-class="block6__image"
+                                  src="https://caezar47.github.io/villagio/img/005/block6_001.png"
+                                  href=""
+                        />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
