@@ -1,0 +1,469 @@
+<mjml>
+    <mj-head>
+        <mj-preview> &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title></mj-title>
+        <mj-breakpoint width="595px" />
+        <mj-attributes>
+            <mj-all
+                    font-family="Arial, sans-serif"
+                    color="#000"
+            />
+            <!-- *** -->
+            <mj-class name="banner__wrapper"
+                      padding="0"
+            />
+            <mj-class name="banner__section"
+                      padding="0"
+            />
+            <mj-class name="banner__column"
+                      padding="0"
+            />
+            <mj-class name="banner__image"
+                      width="600px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="banner2__title"
+                      padding="0 0 20px"
+                      font-size="30px"
+                      line-height="35px"
+                      font-weight="700"
+            />
+            <mj-class name="banner2__column"
+                      padding="0 6px"
+                      width="548px"
+            />
+            <mj-class name="banner2__image"
+                      width="536px"
+                      padding="0"
+            />
+            <!-- *** -->
+            <mj-class name="block2__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block2__section"
+                      padding="27px 0 11px"
+            />
+            <mj-class name="block2__column"
+                      width="276px"
+                      padding="8px"
+            />
+            <mj-class name="block2__card-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block2__card-column"
+                      padding="27px 16px"
+            />
+
+            <mj-class name="block2__card-dark-section"
+                      padding="0"
+                      background-color="#000"
+                      border-radius="20px"
+            />
+            <mj-class name="block2__card-dark-title"
+                      padding="0 0 15px"
+                      font-size="20px"
+                      line-height="23px"
+                      font-weight="700"
+                      color="#fff"
+            />
+            <mj-class name="block2__card-dark-text"
+                      padding="0"
+                      font-size="16px"
+                      line-height="18px"
+                      color="#fff"
+            />
+
+            <mj-class name="block2__card-light-section"
+                      padding="0"
+                      border-radius="20px"
+            />
+            <mj-class name="block2__card-light-title"
+                      padding="0 0 15px"
+                      font-size="20px"
+                      line-height="23px"
+                      font-weight="700"
+                      color="#000"
+            />
+            <mj-class name="block2__card-light-text"
+                      padding="0"
+                      font-size="16px"
+                      line-height="18px"
+                      color="#000"
+            />
+            <!-- *** -->
+            <mj-class name="block3__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block3__section"
+                      padding="0 0 29px"
+            />
+            <mj-class name="block3__column"
+                      width="368px"
+                      padding="0"
+            />
+            <mj-class name="block3__card-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block3__card-section"
+                      padding="0"
+            />
+            <mj-class name="block3__card-column"
+                      width="50%"
+                      padding="6px"
+            />
+            <mj-class name="block3__card-btn-light"
+                      width="100%"
+                      padding="0"
+                      inner-padding="0"
+                      align="left"
+                      text-align="center"
+                      font-size="16px"
+                      line-height="1"
+                      color="#000"
+                      border-radius="8px"
+                      background-color="#F4F4F4"
+                      height="41px"
+                      text-transform="uppercase"
+                      font-weight="700"
+            />
+            <mj-class name="block3__card-btn-dark"
+                      width="100%"
+                      padding="0"
+                      inner-padding="0"
+                      align="left"
+                      text-align="center"
+                      font-size="16px"
+                      line-height="1"
+                      color="#fff"
+                      border-radius="8px"
+                      background-color="transparent"
+                      height="41px"
+                      text-transform="uppercase"
+                      font-weight="700"
+            />
+            <!-- *** -->
+
+            <mj-class name="block4__block-wrapper"
+                      padding="0 6px 30px"
+            />
+            <mj-class name="block4__block-section"
+                      padding="0"
+            />
+            <mj-class name="block4__block-column"
+                      padding="0"
+                      width="536px"
+            />
+
+            <mj-class name="block4__wrapper"
+                      padding="0"
+            />
+            <mj-class name="block4__section"
+                      padding="8px 20px 27px"
+                      border-radius="20px"
+            />
+            <mj-class name="block4__column"
+                      padding="0"
+            />
+            <mj-class name="block4__inner-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block4__inner-section"
+                      padding="0"
+            />
+            <mj-class name="block4__inner-column-left"
+                      padding="5px 10px 0"
+                      width="65%"
+            />
+            <mj-class name="block4__inner-column-right"
+                      padding="15px 10px 0"
+                      width="35%"
+            />
+            <mj-class name="block4__inner-title"
+                      padding="10px 0 4px"
+                      font-size="12px"
+                      line-height="14px"
+                      color="#fff"
+                      font-weight="700"
+            />
+            <mj-class name="block4__inner-text"
+                      padding="0"
+                      font-size="12px"
+                      line-height="14px"
+                      color="#fff"
+            />
+            <mj-class name="block4__inner-button"
+                      padding="0"
+                      inner-padding="0"
+                      align="left"
+                      text-align="left"
+                      font-size="12px"
+                      line-height="14px"
+                      color="#fff"
+                      background-color="transparent"
+            />
+            <mj-class name="block4__inner-image"
+                      padding="0"
+                      align="right"
+                      width="97px"
+            />
+
+            <mj-class name="block4__soc-wrapper"
+                      padding="0"
+            />
+            <mj-class name="block4__soc-section"
+                      padding="36px 0 0"
+            />
+            <mj-class name="block4__soc-column"
+                      padding="0 9px"
+                      width="33%"
+            />
+            <mj-class name="block4__soc-image"
+                      padding="0"
+                      width="22px"
+            />
+            <mj-class name="block4__text"
+                      padding="13px 5px 0"
+                      font-size="12px"
+                      line-height="14px"
+                      color="rgba(255, 255, 255, .5)"
+                      align="center"
+            />
+            <mj-class name="block4__link"
+                      padding="13px 0 0"
+                      inner-padding="0"
+                      font-size="12px"
+                      line-height="14px"
+                      color="rgba(255, 255, 255, .5)"
+                      background-color="transparent"
+                      text-transform="uppercase"
+                      text-decoration="underline"
+            />
+
+        </mj-attributes>
+        <mj-style inline="inline">
+            .block2__card-dark-section {
+                border: 1px solid #000;
+            }
+            .block2__card-light-section {
+                border: 1px solid #000;
+            }
+            .block2__card-text > div {
+                min-height: 75px;
+            }
+            .banner2__column {
+                display: inline-block!important;
+                width: 100%!important;
+                max-width: 548px!important;
+            }
+            .block2__column {
+                display: inline-block!important;
+                width: 100%!important;
+                max-width: 276px!important;
+            }
+            .block3__column {
+                display: inline-block!important;
+                width: 100%!important;
+                max-width: 368px!important;
+            }
+            .block4__block-column {
+                display: inline-block!important;
+                width: 100%!important;
+                max-width: 536px!important;
+            }
+
+            .block3__card-btn-dark,
+            .block3__card-btn-light {
+                display: block!important;
+                background: linear-gradient(94.96deg, #D78AFD -11.46%, #5204B2 54.86%, #0A0A22 112.05%);
+                border-radius: 10px;
+                padding: 2px!important;
+            }
+            .block4__section {
+                background: #0A0A22 linear-gradient(180deg, #0A0A22 0%, #5204B2 49%, #D78AFD 100%);
+            }
+            .block4__soc-section {
+                max-width: 120px!important;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#F4F4F4">
+        <!-- *** -->
+        <mj-wrapper mj-class="banner__wrapper" css-class="banner__wrapper">
+            <mj-section mj-class="banner__section" css-class="banner__section">
+                <mj-column mj-class="banner__column" css-class="banner__column">
+                    <mj-image mj-class="banner__image"
+                              src="https://caezar47.github.io/villagio/img/006/main_banner_item1.jpg"
+                              href="https://clck.ru/3JSBzX"
+                    />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="banner__wrapper" css-class="banner__wrapper">
+            <mj-section mj-class="banner__section" css-class="banner__section">
+                <mj-column mj-class="banner__column" css-class="banner__column">
+                    <mj-image mj-class="banner__image"
+                              src="https://caezar47.github.io/villagio/img/006/main_banner_item2.jpg"
+                              href="https://clck.ru/3JSBzX"
+                    />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="banner__wrapper" css-class="banner__wrapper">
+            <mj-section mj-class="banner__section" css-class="banner__section">
+                <mj-column mj-class="banner2__column" css-class="banner2__column">
+                    <mj-text mj-class="banner2__title">
+                        Условия гарантированного дохода:
+                    </mj-text>
+                    <mj-image mj-class="banner2__image"
+                              src="https://caezar47.github.io/villagio/img/006/main_banner_item3.png"
+                              href="https://clck.ru/3JSBzX"
+                    />
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block2__wrapper" css-class="block2__wrapper">
+            <mj-section mj-class="block2__section" css-class="block2__section">
+                <mj-column mj-class="block2__column" css-class="block2__column">
+                    <mj-wrapper mj-class="block2__card-wrapper" css-class="block2__card-wrapper">
+                        <mj-section mj-class="block2__card-dark-section" css-class="block2__card-dark-section">
+                            <mj-column mj-class="block2__card-column" css-class="block2__card-column">
+                                <mj-text mj-class="block2__card-dark-title">
+                                    Можно остаться на&nbsp;программе «гарантированный доход»
+                                </mj-text>
+                                <mj-text mj-class="block2__card-dark-text" css-class="block2__card-text">
+                                    каждый год сумма индексируется в большую сторону согласно темпам инфляции
+                                </mj-text>
+                            </mj-column>
+                        </mj-section>
+                    </mj-wrapper>
+                </mj-column>
+                <mj-column mj-class="block2__column" css-class="block2__column">
+                    <mj-wrapper mj-class="block2__card-wrapper" css-class="block2__card-wrapper">
+                        <mj-section mj-class="block2__card-light-section" css-class="block2__card-light-section">
+                            <mj-column mj-class="block2__card-column" css-class="block2__card-column">
+                                <mj-text mj-class="block2__card-light-title">
+                                    Или перейти на&nbsp;программу «партнер» и&nbsp;получать %&nbsp;от&nbsp;выручки
+                                </mj-text>
+                                <mj-text mj-class="block2__card-light-text" css-class="block2__card-text">
+                                    в один месяц можно получить 50 000, а в другой — 250 000
+                                </mj-text>
+                            </mj-column>
+                        </mj-section>
+                    </mj-wrapper>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block3__wrapper" css-class="block3__wrapper">
+            <mj-section mj-class="block3__section" css-class="block3__section">
+                <mj-column mj-class="block3__column" css-class="block3__column">
+                    <mj-wrapper mj-class="block3__card-wrapper" css-class="block3__card-wrapper">
+                        <mj-section mj-class="block3__card-section" css-class="block3__card-section">
+                            <mj-group>
+                                <mj-column mj-class="block3__card-column" css-class="block3__card-column">
+                                    <mj-button href="https://clck.ru/3JSBzX" mj-class="block3__card-btn-light" css-class="block3__card-btn-light" >
+                                        подробнее
+                                    </mj-button>
+                                </mj-column>
+                                <mj-column mj-class="block3__card-column" css-class="block3__card-column">
+                                    <mj-button href="https://clck.ru/3JSBzX" mj-class="block3__card-btn-dark" css-class="block3__card-btn-dark" >
+                                        узнать цену
+                                    </mj-button>
+                                </mj-column>
+                            </mj-group>
+                        </mj-section>
+                    </mj-wrapper>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- *** -->
+        <mj-wrapper mj-class="block4__block-wrapper" css-class="block4__block-wrapper">
+            <mj-section mj-class="block4__block-section" css-class="block4__block-section">
+                <mj-column mj-class="block4__block-column" css-class="block4__block-column">
+                    <mj-wrapper mj-class="block4__wrapper" css-class="block4__wrapper">
+                        <mj-section mj-class="block4__section" css-class="block4__section">
+                            <mj-column mj-class="block4__column" css-class="block4__column">
+                                <mj-wrapper mj-class="block4__inner-wrapper" css-class="block4__inner-wrapper">
+                                    <mj-section mj-class="block4__inner-section" css-class="block4__inner-section">
+                                        <mj-group>
+                                            <mj-column mj-class="block4__inner-column-left" css-class="block4__inner-column-left">
+                                                <mj-text mj-class="block4__inner-title" css-class="block4__inner-title">
+                                                    Адрес:
+                                                </mj-text>
+                                                <mj-text mj-class="block4__inner-text" css-class="block4__inner-text">
+                                                    Одинцово, микрорайон Кутузовский, улица&nbsp;Чистяковой 8с2
+                                                </mj-text>
+                                                <mj-text mj-class="block4__inner-title" css-class="block4__inner-title">
+                                                    Отдел продаж:
+                                                </mj-text>
+                                                <mj-button mj-class="block4__inner-button" css-class="block4__inner-button"
+                                                           href="tel:+74952305107">
+                                                    Телефон: +7 495 230-51-07
+                                                </mj-button>
+                                                <mj-button mj-class="block4__inner-button" css-class="block4__inner-button"
+                                                           href="mailto:a@sz-1.ru">
+                                                    Email: a@sz-1.ru
+                                                </mj-button>
+                                                <mj-text mj-class="block4__inner-title" css-class="block4__inner-title">
+                                                    График работы:
+                                                </mj-text>
+                                                <mj-text mj-class="block4__inner-text" css-class="block4__inner-text">
+                                                    Пн-Пт: 9:00 - 19:00<br>
+                                                    Сб-Вс: 10:00 - 16:00
+                                                </mj-text>
+                                            </mj-column>
+                                            <mj-column mj-class="block4__inner-column-right" css-class="block4__inner-column-right">
+                                                <mj-image mj-class="block4__inner-image"
+                                                          src="https://caezar47.github.io/villagio/img/004/block4_image_001.png"
+                                                          href="https://ametist-hotel.ru/"
+                                                />
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-wrapper>
+
+                                <mj-wrapper mj-class="block4__soc-wrapper" css-class="block4__soc-wrapper">
+                                    <mj-section mj-class="block4__soc-section" css-class="block4__soc-section">
+                                        <mj-group>
+                                            <mj-column mj-class="block4__soc-column" css-class="block4__soc-column">
+                                                <mj-image mj-class="block4__soc-image"
+                                                          src="https://caezar47.github.io/villagio/img/004/block4_soc_site.png"
+                                                          href="https://ametist-hotel.ru/"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="block4__soc-column" css-class="block4__soc-column">
+                                                <mj-image mj-class="block4__soc-image"
+                                                          src="https://caezar47.github.io/villagio/img/004/block4_soc_tg.png"
+                                                          href="https://t.me/gkametist"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="block4__soc-column" css-class="block4__soc-column">
+                                                <mj-image mj-class="block4__soc-image"
+                                                          src="https://caezar47.github.io/villagio/img/004/block4_soc_vk.png"
+                                                          href="https://vk.com/hotelametist"
+                                                />
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-wrapper>
+
+                                <mj-text mj-class="block4__text" css-class="block4__text">
+                                    Любая информация, представленная на данном сайте, носит исключительно информационный характер и не является публичной офертой согласно ст. 437 ГК РФ.
+                                </mj-text>
+
+                                <mj-button mj-class="block4__link" css-class="block4__link"
+                                           href="#">
+                                    Отписаться от рассылки
+                                </mj-button>
+                            </mj-column>
+                        </mj-section>
+                    </mj-wrapper>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
