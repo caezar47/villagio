@@ -295,6 +295,7 @@
                     <mj-image mj-class="banner__image"
                               src="https://caezar47.github.io/villagio/img/006/main_banner_item1.jpg"
                               href="https://clck.ru/3JSBzX"
+                              alt="банер 1"
                     />
                 </mj-column>
             </mj-section>
@@ -306,6 +307,7 @@
                     <mj-image mj-class="banner__image"
                               src="https://caezar47.github.io/villagio/img/006/main_banner_item2.jpg"
                               href="https://clck.ru/3JSBzX"
+                              alt="банер 2"
                     />
                 </mj-column>
             </mj-section>
@@ -320,6 +322,7 @@
                     <mj-image mj-class="banner2__image"
                               src="https://caezar47.github.io/villagio/img/006/main_banner_item3.png"
                               href="https://clck.ru/3JSBzX"
+                              alt="банер 3"
                     />
                 </mj-column>
             </mj-section>
@@ -420,6 +423,7 @@
                                                 <mj-image mj-class="block4__inner-image"
                                                           src="https://caezar47.github.io/villagio/img/004/block4_image_001.png"
                                                           href="https://ametist-hotel.ru/"
+                                                          alt="банер 4"
                                                 />
                                             </mj-column>
                                         </mj-group>
@@ -433,18 +437,21 @@
                                                 <mj-image mj-class="block4__soc-image"
                                                           src="https://caezar47.github.io/villagio/img/004/block4_soc_site.png"
                                                           href="https://ametist-hotel.ru/"
+                                                          alt="сайт"
                                                 />
                                             </mj-column>
                                             <mj-column mj-class="block4__soc-column" css-class="block4__soc-column">
                                                 <mj-image mj-class="block4__soc-image"
                                                           src="https://caezar47.github.io/villagio/img/004/block4_soc_tg.png"
                                                           href="https://t.me/gkametist"
+                                                          alt="мы в tg"
                                                 />
                                             </mj-column>
                                             <mj-column mj-class="block4__soc-column" css-class="block4__soc-column">
                                                 <mj-image mj-class="block4__soc-image"
                                                           src="https://caezar47.github.io/villagio/img/004/block4_soc_vk.png"
                                                           href="https://vk.com/hotelametist"
+                                                          alt="мы в vk"
                                                 />
                                             </mj-column>
                                         </mj-group>
